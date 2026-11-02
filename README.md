@@ -1,45 +1,41 @@
-# AI Red Teamer | LLM Vulnerability Researcher 🎯
+<h1 align="center">💻 AI Red Team Engineer </h1>
 
-<!-- Анимированный хакерский баннер -->
+###
+
+<div align="center">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img width="12" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vs code logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="kubernetes logo"  />
+</div>
+
+
 <p align="center">
-  <img src="https://vercel.app" width="100%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=marknemerov&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
-<!-- Стек и навыки безопасности в виде бэджей -->
+
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-<br/>
-
-<!-- Статистика в неоновом стиле (Тема Tokyo Night) -->
-<p align="center">
-  <!-- Карточка общей активности -->
-  <img src="https://vercel.app" height="160" />
-  
-  <!-- Языки и инструменты -->
-  <img src="https://vercel.app" height="160" />
-</p>
-
-<br/>
-
-<!-- Анимированный график коммитов/активности -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
-
-<br/>
-
-<!-- Секретные каналы связи -->
-<p align="center">
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://huggingface.co" target="_blank">
-    <img src="https://shields.io" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
