@@ -29,7 +29,7 @@
 <img width="11" />
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=marknemerov&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=marknemerov&theme=dark&show_icons=true&hide_border=false&count_private=true">
 </p>
 
 
