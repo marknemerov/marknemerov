@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="c++ logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img width="12" />
